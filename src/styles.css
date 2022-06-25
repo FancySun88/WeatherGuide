@@ -58,13 +58,21 @@ form input {
 section h1 {
   margin-left: 83px;
 }
-footer {
-  font-size: small;
+.signature {
   position: fixed;
-  bottom: 0;
-  width: 100%;
+  bottom: 25px;
+  left: 0;
+  color: #000;
+  font-weight: bolder;
 }
 .night_t {
   opacity: 50%;
   font-size: smaller;
+}
+.GitHub-link {
+  position: fixed;
+  bottom: 25px;
+  right: 0;
+  color: #000;
+  font-weight: bolder;
 }
